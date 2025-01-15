@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Verificação de Paridada\\Verificação de Paridade.csproj": {}
+    "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Verificação de Paridade\\Verificação de Paridade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Verificação de Paridada\\Verificação de Paridade.csproj": {
+    "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Verificação de Paridade\\Verificação de Paridade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Verificação de Paridada\\Verificação de Paridade.csproj",
+        "projectUniqueName": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Verificação de Paridade\\Verificação de Paridade.csproj",
         "projectName": "Verificação de Paridade",
-        "projectPath": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Verificação de Paridada\\Verificação de Paridade.csproj",
+        "projectPath": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Verificação de Paridade\\Verificação de Paridade.csproj",
         "packagesPath": "C:\\Users\\gustavo.rssilva3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Verificação de Paridada\\obj\\",
+        "outputPath": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Verificação de Paridade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Verificação de Idade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b239caf181e485cc3c94be67e585f0e3a40784f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f705c69ff9f4348b866989d5aa6c5bfb18000ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("Verificação de Idade")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Verificação de Idade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

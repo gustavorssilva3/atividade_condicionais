@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBA51FCE-999D-4131-B867-19A4C0991D0F}|Verifica\u00E7\u00E3o de Paridada\\Verifica\u00E7\u00E3o de Paridada.csproj|c:\\users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\verifica\u00E7\u00E3o de paridada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBA51FCE-999D-4131-B867-19A4C0991D0F}|Verifica\u00E7\u00E3o de Paridada\\Verifica\u00E7\u00E3o de Paridada.csproj|solutionrelative:verifica\u00E7\u00E3o de paridada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2904C6F-92A6-46CD-8D35-345E1685537C}|Verifica\u00E7\u00E3o de Paridade\\Verifica\u00E7\u00E3o de Paridade.csproj|c:\\users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\verifica\u00E7\u00E3o de paridade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2904C6F-92A6-46CD-8D35-345E1685537C}|Verifica\u00E7\u00E3o de Paridade\\Verifica\u00E7\u00E3o de Paridade.csproj|solutionrelative:verifica\u00E7\u00E3o de paridade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Verifica\u00E7\u00E3o de Paridada\\Program.cs",
-              "RelativeDocumentMoniker": "Verifica\u00E7\u00E3o de Paridada\\Program.cs",
-              "ToolTip": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Verifica\u00E7\u00E3o de Paridada\\Program.cs",
-              "RelativeToolTip": "Verifica\u00E7\u00E3o de Paridada\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Verifica\u00E7\u00E3o de Paridade\\Program.cs",
+              "RelativeDocumentMoniker": "Verifica\u00E7\u00E3o de Paridade\\Program.cs",
+              "ToolTip": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Verifica\u00E7\u00E3o de Paridade\\Program.cs",
+              "RelativeToolTip": "Verifica\u00E7\u00E3o de Paridade\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T17:31:31.783Z",
+              "WhenOpened": "2025-01-15T17:45:06.9Z",
               "EditorCaption": ""
             }
           ]
