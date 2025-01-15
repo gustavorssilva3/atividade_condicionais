@@ -1,0 +1,14 @@
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Classificação de Notas\bin\Debug\net8.0\Classificação de Notas.exe
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Classificação de Notas\bin\Debug\net8.0\Classificação de Notas.deps.json
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Classificação de Notas\bin\Debug\net8.0\Classificação de Notas.runtimeconfig.json
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Classificação de Notas\bin\Debug\net8.0\Classificação de Notas.dll
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Classificação de Notas\bin\Debug\net8.0\Classificação de Notas.pdb
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Classificação de Notas\obj\Debug\net8.0\Classificação de Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Classificação de Notas\obj\Debug\net8.0\Classificação de Notas.AssemblyInfoInputs.cache
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Classificação de Notas\obj\Debug\net8.0\Classificação de Notas.AssemblyInfo.cs
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Classificação de Notas\obj\Debug\net8.0\Classificação de Notas.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Classificação de Notas\obj\Debug\net8.0\Classificação de Notas.dll
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Classificação de Notas\obj\Debug\net8.0\refint\Classificação de Notas.dll
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Classificação de Notas\obj\Debug\net8.0\Classificação de Notas.pdb
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Classificação de Notas\obj\Debug\net8.0\Classificação de Notas.genruntimeconfig.cache
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Classificação de Notas\obj\Debug\net8.0\ref\Classificação de Notas.dll

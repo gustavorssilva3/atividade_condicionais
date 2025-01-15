@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aprovação de Aluno/1.0.0": {
+        "runtime": {
+          "Aprovação de Aluno.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aprovação de Aluno/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

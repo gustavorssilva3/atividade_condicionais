@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cálculo do Desconto/1.0.0": {
+        "runtime": {
+          "Cálculo do Desconto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cálculo do Desconto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

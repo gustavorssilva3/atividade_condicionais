@@ -1,0 +1,14 @@
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Aprovação de Aluno\bin\Debug\net8.0\Aprovação de Aluno.exe
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Aprovação de Aluno\bin\Debug\net8.0\Aprovação de Aluno.deps.json
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Aprovação de Aluno\bin\Debug\net8.0\Aprovação de Aluno.runtimeconfig.json
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Aprovação de Aluno\bin\Debug\net8.0\Aprovação de Aluno.dll
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Aprovação de Aluno\bin\Debug\net8.0\Aprovação de Aluno.pdb
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Aprovação de Aluno\obj\Debug\net8.0\Aprovação de Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Aprovação de Aluno\obj\Debug\net8.0\Aprovação de Aluno.AssemblyInfoInputs.cache
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Aprovação de Aluno\obj\Debug\net8.0\Aprovação de Aluno.AssemblyInfo.cs
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Aprovação de Aluno\obj\Debug\net8.0\Aprovação de Aluno.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Aprovação de Aluno\obj\Debug\net8.0\Aprovação de Aluno.dll
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Aprovação de Aluno\obj\Debug\net8.0\refint\Aprovação de Aluno.dll
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Aprovação de Aluno\obj\Debug\net8.0\Aprovação de Aluno.pdb
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Aprovação de Aluno\obj\Debug\net8.0\Aprovação de Aluno.genruntimeconfig.cache
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Aprovação de Aluno\obj\Debug\net8.0\ref\Aprovação de Aluno.dll

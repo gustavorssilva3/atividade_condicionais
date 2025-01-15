@@ -1,0 +1,14 @@
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Cálculo do Desconto\bin\Debug\net8.0\Cálculo do Desconto.exe
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Cálculo do Desconto\bin\Debug\net8.0\Cálculo do Desconto.deps.json
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Cálculo do Desconto\bin\Debug\net8.0\Cálculo do Desconto.runtimeconfig.json
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Cálculo do Desconto\bin\Debug\net8.0\Cálculo do Desconto.dll
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Cálculo do Desconto\bin\Debug\net8.0\Cálculo do Desconto.pdb
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Cálculo do Desconto\obj\Debug\net8.0\Cálculo do Desconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Cálculo do Desconto\obj\Debug\net8.0\Cálculo do Desconto.AssemblyInfoInputs.cache
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Cálculo do Desconto\obj\Debug\net8.0\Cálculo do Desconto.AssemblyInfo.cs
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Cálculo do Desconto\obj\Debug\net8.0\Cálculo do Desconto.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Cálculo do Desconto\obj\Debug\net8.0\Cálculo do Desconto.dll
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Cálculo do Desconto\obj\Debug\net8.0\refint\Cálculo do Desconto.dll
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Cálculo do Desconto\obj\Debug\net8.0\Cálculo do Desconto.pdb
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Cálculo do Desconto\obj\Debug\net8.0\Cálculo do Desconto.genruntimeconfig.cache
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Cálculo do Desconto\obj\Debug\net8.0\ref\Cálculo do Desconto.dll

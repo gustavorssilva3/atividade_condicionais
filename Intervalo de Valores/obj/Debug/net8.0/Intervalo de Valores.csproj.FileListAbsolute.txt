@@ -1,0 +1,14 @@
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Intervalo de Valores\bin\Debug\net8.0\Intervalo de Valores.exe
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Intervalo de Valores\bin\Debug\net8.0\Intervalo de Valores.deps.json
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Intervalo de Valores\bin\Debug\net8.0\Intervalo de Valores.runtimeconfig.json
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Intervalo de Valores\bin\Debug\net8.0\Intervalo de Valores.dll
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Intervalo de Valores\bin\Debug\net8.0\Intervalo de Valores.pdb
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Intervalo de Valores\obj\Debug\net8.0\Intervalo de Valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Intervalo de Valores\obj\Debug\net8.0\Intervalo de Valores.AssemblyInfoInputs.cache
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Intervalo de Valores\obj\Debug\net8.0\Intervalo de Valores.AssemblyInfo.cs
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Intervalo de Valores\obj\Debug\net8.0\Intervalo de Valores.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Intervalo de Valores\obj\Debug\net8.0\Intervalo de Valores.dll
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Intervalo de Valores\obj\Debug\net8.0\refint\Intervalo de Valores.dll
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Intervalo de Valores\obj\Debug\net8.0\Intervalo de Valores.pdb
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Intervalo de Valores\obj\Debug\net8.0\Intervalo de Valores.genruntimeconfig.cache
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Intervalo de Valores\obj\Debug\net8.0\ref\Intervalo de Valores.dll
