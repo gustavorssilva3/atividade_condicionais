@@ -1,0 +1,15 @@
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Verificação de Paridada\bin\Debug\net8.0\Verificação de Paridade.exe
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Verificação de Paridada\bin\Debug\net8.0\Verificação de Paridade.deps.json
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Verificação de Paridada\bin\Debug\net8.0\Verificação de Paridade.runtimeconfig.json
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Verificação de Paridada\bin\Debug\net8.0\Verificação de Paridade.dll
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Verificação de Paridada\bin\Debug\net8.0\Verificação de Paridade.pdb
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Verificação de Paridada\obj\Debug\net8.0\Verificação de Paridade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Verificação de Paridada\obj\Debug\net8.0\Verificação de Paridade.AssemblyInfoInputs.cache
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Verificação de Paridada\obj\Debug\net8.0\Verificação de Paridade.AssemblyInfo.cs
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Verificação de Paridada\obj\Debug\net8.0\Verificação de Paridade.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Verificação de Paridada\obj\Debug\net8.0\Verificação de Paridade.sourcelink.json
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Verificação de Paridada\obj\Debug\net8.0\Verificação de Paridade.dll
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Verificação de Paridada\obj\Debug\net8.0\refint\Verificação de Paridade.dll
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Verificação de Paridada\obj\Debug\net8.0\Verificação de Paridade.pdb
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Verificação de Paridada\obj\Debug\net8.0\Verificação de Paridade.genruntimeconfig.cache
+C:\Users\gustavo.rssilva3\source\repos\comandos_condicionais\Verificação de Paridada\obj\Debug\net8.0\ref\Verificação de Paridade.dll

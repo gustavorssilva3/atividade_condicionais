@@ -3,44 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98ED4D96-C238-41EF-BF08-517A01B08E8F}|comandos_condicionais\\verifica\u00E7\u00E3o de paridade.csproj|c:\\users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\comandos_condicionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98ED4D96-C238-41EF-BF08-517A01B08E8F}|comandos_condicionais\\verifica\u00E7\u00E3o de paridade.csproj|solutionrelative:comandos_condicionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{890D8FF0-2C00-42E1-8DE3-69736A513319}|Aprova\u00E7\u00E3o de Aluno\\Aprova\u00E7\u00E3o de Aluno.csproj|c:\\users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\aprova\u00E7\u00E3o de aluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{890D8FF0-2C00-42E1-8DE3-69736A513319}|Aprova\u00E7\u00E3o de Aluno\\Aprova\u00E7\u00E3o de Aluno.csproj|solutionrelative:aprova\u00E7\u00E3o de aluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C0F8532-C240-481E-8876-5E224ECF69FC}|Dia da Semana\\Dia da Semana.csproj|c:\\users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\dia da semana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C0F8532-C240-481E-8876-5E224ECF69FC}|Dia da Semana\\Dia da Semana.csproj|solutionrelative:dia da semana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19C528D5-BBB5-442B-BE1F-23B66DC08E7A}|C\u00E1lculo do Desconto\\C\u00E1lculo do Desconto.csproj|c:\\users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\c\u00E1lculo do desconto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19C528D5-BBB5-442B-BE1F-23B66DC08E7A}|C\u00E1lculo do Desconto\\C\u00E1lculo do Desconto.csproj|solutionrelative:c\u00E1lculo do desconto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FA54953-C873-43E1-BB60-ACBB5DD2267B}|Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o\\Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o.csproj|c:\\users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\verifica\u00E7\u00E3o de vota\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FA54953-C873-43E1-BB60-ACBB5DD2267B}|Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o\\Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o.csproj|solutionrelative:verifica\u00E7\u00E3o de vota\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0198E3C9-0AD0-4283-A4B7-BF8655E0FEA0}|Compara\u00E7\u00E3o de N\u00FAmeros\\Compara\u00E7\u00E3o de N\u00FAmeros.csproj|c:\\users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\compara\u00E7\u00E3o de n\u00FAmeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0198E3C9-0AD0-4283-A4B7-BF8655E0FEA0}|Compara\u00E7\u00E3o de N\u00FAmeros\\Compara\u00E7\u00E3o de N\u00FAmeros.csproj|solutionrelative:compara\u00E7\u00E3o de n\u00FAmeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66B47A31-8992-4ABD-877C-CD4DCF725C62}|Classifica\u00E7\u00E3o de Notas\\Classifica\u00E7\u00E3o de Notas.csproj|c:\\users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\classifica\u00E7\u00E3o de notas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66B47A31-8992-4ABD-877C-CD4DCF725C62}|Classifica\u00E7\u00E3o de Notas\\Classifica\u00E7\u00E3o de Notas.csproj|solutionrelative:classifica\u00E7\u00E3o de notas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{611B4ECF-477F-47CB-A1B7-2E9FD4DDFA35}|Verifica\u00E7\u00E3o de Idade\\Verifica\u00E7\u00E3o de Idade.csproj|c:\\users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\verifica\u00E7\u00E3o de idade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{611B4ECF-477F-47CB-A1B7-2E9FD4DDFA35}|Verifica\u00E7\u00E3o de Idade\\Verifica\u00E7\u00E3o de Idade.csproj|solutionrelative:verifica\u00E7\u00E3o de idade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DF84DAE-3DCF-4F1D-B7FB-F01A963386D5}|Intervalo de Valores\\Intervalo de Valores.csproj|c:\\users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\intervalo de valores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DF84DAE-3DCF-4F1D-B7FB-F01A963386D5}|Intervalo de Valores\\Intervalo de Valores.csproj|solutionrelative:intervalo de valores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1A5EFEF-15C2-44B1-905E-09AF42031438}|numero positivo ou negativo\\numero positivo ou negativo.csproj|c:\\users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\numero positivo ou negativo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1A5EFEF-15C2-44B1-905E-09AF42031438}|numero positivo ou negativo\\numero positivo ou negativo.csproj|solutionrelative:numero positivo ou negativo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBA51FCE-999D-4131-B867-19A4C0991D0F}|Verifica\u00E7\u00E3o de Paridada\\Verifica\u00E7\u00E3o de Paridada.csproj|c:\\users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\verifica\u00E7\u00E3o de paridada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBA51FCE-999D-4131-B867-19A4C0991D0F}|Verifica\u00E7\u00E3o de Paridada\\Verifica\u00E7\u00E3o de Paridada.csproj|solutionrelative:verifica\u00E7\u00E3o de paridada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,136 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\numero positivo ou negativo\\Program.cs",
-              "RelativeDocumentMoniker": "numero positivo ou negativo\\Program.cs",
-              "ToolTip": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\numero positivo ou negativo\\Program.cs",
-              "RelativeToolTip": "numero positivo ou negativo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T16:37:50.487Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\C\u00E1lculo do Desconto\\Program.cs",
-              "RelativeDocumentMoniker": "C\u00E1lculo do Desconto\\Program.cs",
-              "ToolTip": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\C\u00E1lculo do Desconto\\Program.cs",
-              "RelativeToolTip": "C\u00E1lculo do Desconto\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T16:51:00.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Dia da Semana\\Program.cs",
-              "RelativeDocumentMoniker": "Dia da Semana\\Program.cs",
-              "ToolTip": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Dia da Semana\\Program.cs",
-              "RelativeToolTip": "Dia da Semana\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T16:48:35.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o\\Program.cs",
-              "RelativeDocumentMoniker": "Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o\\Program.cs",
-              "ToolTip": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o\\Program.cs",
-              "RelativeToolTip": "Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T16:47:19.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Compara\u00E7\u00E3o de N\u00FAmeros\\Program.cs",
-              "RelativeDocumentMoniker": "Compara\u00E7\u00E3o de N\u00FAmeros\\Program.cs",
-              "ToolTip": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Compara\u00E7\u00E3o de N\u00FAmeros\\Program.cs",
-              "RelativeToolTip": "Compara\u00E7\u00E3o de N\u00FAmeros\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T16:46:01.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Classifica\u00E7\u00E3o de Notas\\Program.cs",
-              "RelativeDocumentMoniker": "Classifica\u00E7\u00E3o de Notas\\Program.cs",
-              "ToolTip": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Classifica\u00E7\u00E3o de Notas\\Program.cs",
-              "RelativeToolTip": "Classifica\u00E7\u00E3o de Notas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T16:44:48.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Verifica\u00E7\u00E3o de Idade\\Program.cs",
-              "RelativeDocumentMoniker": "Verifica\u00E7\u00E3o de Idade\\Program.cs",
-              "ToolTip": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Verifica\u00E7\u00E3o de Idade\\Program.cs",
-              "RelativeToolTip": "Verifica\u00E7\u00E3o de Idade\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T16:42:54.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Intervalo de Valores\\Program.cs",
-              "RelativeDocumentMoniker": "Intervalo de Valores\\Program.cs",
-              "ToolTip": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Intervalo de Valores\\Program.cs",
-              "RelativeToolTip": "Intervalo de Valores\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T16:41:29.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Aprova\u00E7\u00E3o de Aluno\\Program.cs",
-              "RelativeDocumentMoniker": "Aprova\u00E7\u00E3o de Aluno\\Program.cs",
-              "ToolTip": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Aprova\u00E7\u00E3o de Aluno\\Program.cs",
-              "RelativeToolTip": "Aprova\u00E7\u00E3o de Aluno\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T16:39:55.202Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\comandos_condicionais\\Program.cs",
-              "RelativeDocumentMoniker": "comandos_condicionais\\Program.cs",
-              "ToolTip": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\comandos_condicionais\\Program.cs",
-              "RelativeToolTip": "comandos_condicionais\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Verifica\u00E7\u00E3o de Paridada\\Program.cs",
+              "RelativeDocumentMoniker": "Verifica\u00E7\u00E3o de Paridada\\Program.cs",
+              "ToolTip": "C:\\Users\\gustavo.rssilva3\\source\\repos\\comandos_condicionais\\Verifica\u00E7\u00E3o de Paridada\\Program.cs",
+              "RelativeToolTip": "Verifica\u00E7\u00E3o de Paridada\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T16:34:21.272Z",
+              "WhenOpened": "2025-01-15T17:31:31.783Z",
               "EditorCaption": ""
             }
           ]

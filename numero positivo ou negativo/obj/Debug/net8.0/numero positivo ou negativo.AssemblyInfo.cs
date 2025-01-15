@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("numero positivo ou negativo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b239caf181e485cc3c94be67e585f0e3a40784f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("numero positivo ou negativo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("numero positivo ou negativo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
